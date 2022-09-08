@@ -1,3 +1,5 @@
+## Hi, I'm Brandon :wave:
+
 :school_satchel: **Currently:** Advanced Software Development at Mission Ready
 
 :seedling: **Learning:** DevOps and automated deployment, Cloud services (AWS, Azure, IBM Cloud...), Agile mindset and practices, Unit testing, Docker
