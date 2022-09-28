@@ -14,3 +14,4 @@ Other interests include Motorsport :checkered_flag:, Basketball :basketball:, an
 :wrench: **Tools:** React, Node.js<br/>
 :inbox_tray: Feel free to reach out to me at brandontrump101@gmail.com<br/>
 
+![BrandTrump's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandTrump)
