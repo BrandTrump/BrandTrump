@@ -2,7 +2,7 @@
 
 ### About 
 
-Graduated from AUT with a Bachelor of Computer Science, majoring in Software Development.    
+Graduated from Auckland University of Technology (AUT) with a Bachelor of Computer Science, majoring in Software Development.    
 
 I'm a aspiring Front End Developer from Auckland, New Zealand. I love making beautiful web apps!
 
