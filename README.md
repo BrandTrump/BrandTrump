@@ -8,7 +8,7 @@ I'm a aspiring Front End Developer from Auckland, New Zealand. I love making bea
 
 Other interests include Motorsport :checkered_flag:, Basketball :basketball:, and Video games :video_game:
 
-:computer: **Currently:** Working on a MERN stack application with user authentication<br/>
+:computer: **Currently:** Working on a MERN stack application with user authentication & playing around with GSAP<br/>
 :seedling: **Learning:** DevOps and automated deployment, Cloud services (AWS, Azure, IBM Cloud...), Agile mindset and practices, Unit testing, Docker<br/>
 :globe_with_meridians: **Languages:** TypeScript, JavaScript, HTML/CSS<br/>
 :wrench: **Tools:** React, Vite, Node.js, SCSS/SASS, MongoDB, Cloud services (Firebase, AWS...)<br/>
