@@ -4,7 +4,7 @@
 
 Graduated from Auckland University of Technology (AUT) with a Bachelor of Computer Science, majoring in Software Development.    
 
-I'm a aspiring Front End Developer from Auckland, New Zealand. I love making beautiful web apps!
+I'm a aspiring Full Stack Developer from Auckland, New Zealand. I love making beautiful web apps!
 
 Other interests include Motorsport :checkered_flag:, Basketball :basketball:, and Video games :video_game:
 
