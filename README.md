@@ -9,7 +9,7 @@ I'm a aspiring Full Stack Developer from Auckland, New Zealand. I love making be
 Other interests include Motorsport :checkered_flag:, Basketball :basketball:, and Video games :video_game:
 
 :computer: **Currently:** Working on Hypergeometric Calculator app & frontend mentor challenges<br/>
-:seedling: **Learning:** DevOps and automated deployment, Cloud services (AWS, Azure, IBM Cloud...), Agile mindset and practices, Unit testing, Docker, GSAP, Next.js<br/>
+:seedling: **Learning:** DevOps and automated deployment, Cloud services (AWS, Azure, IBM Cloud...), Agile mindset and practices, Unit testing, Docker, GSAP, Next.js 13<br/>
 :globe_with_meridians: **Languages:** TypeScript, JavaScript, HTML/CSS<br/>
 :wrench: **Tools:** React, Vite, Node.js, SCSS/SASS, MongoDB, Cloud services (Firebase, AWS...)<br/>
 
