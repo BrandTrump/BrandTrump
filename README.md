@@ -6,12 +6,12 @@ Graduated from Auckland University of Technology (AUT) with a Bachelor of Comput
 
 I'm a aspiring Full Stack Developer from Auckland, New Zealand. I love making beautiful web apps!
 
-Other interests include Motorsport :checkered_flag:, Basketball :basketball:, and Video games :video_game:
+Other interests include Motorsport :checkered_flag:, Aviation ✈️, Basketball :basketball:, and Video games :video_game:
 
 :computer: **Currently:** Working on Hypergeometric Calculator app & frontend mentor challenges<br/>
 :seedling: **Learning:** DevOps and automated deployment, Cloud services (AWS, Azure, IBM Cloud...), Agile mindset and practices, Unit testing, Docker, GSAP, Python<br/>
 :globe_with_meridians: **Languages:** TypeScript, JavaScript, HTML/CSS<br/>
-:wrench: **Tools:** React, Next.js, Vite, Node.js, SCSS/SASS, MongoDB, Cloud services (Firebase, AWS...)<br/>
+:wrench: **Tools:** React, Next.js, Vite, Node.js, SCSS/SASS, Tailwind CSS, MongoDB, Cloud services (Firebase, AWS...)<br/>
 
 <br/><div align="center">
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
