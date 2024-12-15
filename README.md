@@ -4,7 +4,7 @@
 
 Graduated from Auckland University of Technology (AUT) with a Bachelor of Computer Science, majoring in Software Development.    
 
-I'm a aspiring Full Stack Developer from Auckland, New Zealand. I love making beautiful web apps!
+I'm an aspiring Full Stack Developer from Auckland, New Zealand. I love making beautiful web apps!
 
 Other interests include Motorsport :checkered_flag:, Aviation ✈️, Basketball :basketball:, and Video games :video_game:
 
@@ -30,5 +30,3 @@ Other interests include Motorsport :checkered_flag:, Aviation ✈️, Basketball
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" alt="Firebase" title="Firebase" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker" />
 </div><br/>
-
-![BrandTrump's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrandTrump)
